@@ -1,5 +1,5 @@
 # To-do-list
-## Create a to-do list
+Create a to-do list
 
 ### How to run in terminal:
 Clone project on local machine.
