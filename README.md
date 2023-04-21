@@ -1,5 +1,5 @@
 # To-do-list
-Node.js based application to create a to-do list
+Node.js based application to create a to-do list.\
 To install Node, visit: https://nodejs.org/en
 
 ### How to run in terminal:
