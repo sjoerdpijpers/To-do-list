@@ -6,3 +6,4 @@ Node.js based application to create a to-do list
 2. Cd into project folder and run "npm install" to install all the packages.
 3. Install nodemon: https://www.npmjs.com/package/nodemon
 4. Run with command: "nodemon app.js"
+5. Go to localhost port 3000: http://localhost:3000/
