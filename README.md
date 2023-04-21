@@ -1,5 +1,5 @@
 # To-do-list
-Create a to-do list
+Node.js based application to create a to-do list
 
 ### How to run in terminal:
 1. Clone project on local machine.
